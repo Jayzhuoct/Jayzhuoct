@@ -31,14 +31,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats-theta-ashy-92.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats-theta-ashy-92.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats-theta-ashy-92.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
@@ -63,7 +63,7 @@ Wednesday                188 commits         ███░░░░░░░░�
 Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 Friday                   356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
 Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Sunday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Sunday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
 ```
 
 
