@@ -44,7 +44,7 @@
 </td></tr>
 
 <tr><td>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayzhuoct&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
