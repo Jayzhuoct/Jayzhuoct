@@ -12,9 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <a href="https://jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="博客" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -40,56 +38,3 @@
   />
   <img src="https://github-readme-stats-theta-ashy-92.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
-
-</td></tr>
-
-<tr><td>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayzhuoct&show_icons=true&theme=radical)
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                274 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-🌆 Daytime                428 commits         ████████░░░░░░░░░░░░░░░░░   30.20 % 
-🌃 Evening                507 commits         █████████░░░░░░░░░░░░░░░░   35.78 % 
-🌙 Night                  208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Wednesday                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Friday                   356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Saturday                 147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Sunday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.46 % 
-TypeScript               5 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Vue.js                   2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-HTML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 52 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  18 hrs 17 mins      ███████████████████████░░   92.04 % 
-Mac                      1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-```
-
-
- Last Updated on 31/07/2023 01:23:48 UTC
-<!--END_SECTION:waka-->
-  
-</td></tr>
-</table>
