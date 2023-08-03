@@ -14,7 +14,7 @@
   <div align="center">
     <a href="https://jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" alt="博客" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=Jayzhuoct&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
