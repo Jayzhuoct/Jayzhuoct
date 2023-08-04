@@ -224,6 +224,7 @@ mindmap
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+
 <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/left.png" />&emsp;
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzhuoct&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/right.png" />
@@ -262,11 +263,7 @@ mindmap
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/wakatime.svg" alt="wakatime" /></td>
@@ -285,8 +282,6 @@ mindmap
     <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/rocket.png"/>
