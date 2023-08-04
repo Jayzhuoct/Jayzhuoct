@@ -23,10 +23,13 @@
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
+</div>
 
 <!-- github 统计 -->
 ### 📊 GitHub
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayzhuoct)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
@@ -111,4 +114,4 @@ JavaScript               1 repo              ████████░░░�
  Last Updated on 03/08/2023 18:38:45 UTC
 <!--END_SECTION:waka-->
 
-</div>
+
