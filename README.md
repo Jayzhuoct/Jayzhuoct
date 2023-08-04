@@ -253,13 +253,7 @@ mindmap
 <img width="36%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/githubgif.gif" />
 
 <!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
 
-<!-- second form 第二个表格 -->
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
