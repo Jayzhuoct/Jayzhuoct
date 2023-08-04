@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "zh"
           SHOW_LINES_OF_CODE: "True"
-      - uses: Jayzhuoct/snk@master
+      - uses: Jayzhuoct/snk@v3
         with:
           github_user_name: Jayzhuoct
           outputs:
