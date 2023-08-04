@@ -253,10 +253,12 @@ mindmap
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Github-Stats-Terminal/github_stats.svg"/><br>
+<img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
+<br>
 
 <!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<br>
 
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=Jayzhuoct&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
@@ -271,9 +273,6 @@ mindmap
   <tr>
     <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/running/assets/github_2023.svg" /></a><br></td>
   </tr>
 </table>
 </div>
