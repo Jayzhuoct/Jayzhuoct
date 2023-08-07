@@ -351,8 +351,12 @@ mindmap
   </tr>
 </table>
 
+<!-- skyline 图片 -->
+![skyline](github-metrics/skyline.svg)
+
 <!-- rocket 图片 -->
 ![rocket](/assets/images/rocket.png)
+
 </div>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 
