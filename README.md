@@ -1,3 +1,4 @@
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -13,6 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/coding.gif" />
 <br>
 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://www.jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -26,7 +28,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
-
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 </div>
 
 #  🙋 Hello
@@ -301,9 +303,9 @@ mindmap
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cxyduck.gif" />&emsp;
+<img width="150" src="/assets/images/cxyduck.gif" />&emsp;
 <img src="/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cxyduck.gif" />
+&emsp;<img width="150" src="/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
@@ -315,41 +317,41 @@ mindmap
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/githubgif.gif" />
+<img width="36%" src="/assets/images/githubgif.gif"  alt="githubgif.gif"/>
 
 <!-- first form 第一个表格 -->
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/rocket.png"/>
+<!-- rocket 图片 -->
+![rocket](/assets/images/rocket.png)
 </div>
-
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 
