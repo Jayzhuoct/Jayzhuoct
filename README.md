@@ -254,7 +254,7 @@ mindmap
 <img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
