@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td>
+<td style="width: 50%">
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
