@@ -36,7 +36,8 @@
 #  🙋 Hello
 
 <table>
-<tr><td>
+<tr>
+<td>
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
@@ -47,17 +48,19 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-</td></tr>
+</td>
 
-
-<tr><td>
+<td>
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-</td></tr>
+</td>
+
+</tr>
+
 
 <tr><td>
 
