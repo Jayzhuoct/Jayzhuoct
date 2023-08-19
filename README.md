@@ -59,13 +59,36 @@
 
 </tr>
 
+</table>
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
+
+<div align="center" >
+
+<!-- Github-Stats-Terminal 终端风格信息 -->
+<img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
+<br>
+
+<!-- Quotes 名人名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<br>
+
+<!-- GitHub 奖杯🏆 -->
+<img  src="https://github-profile-trophy.vercel.app/?username=Jayzhuoct&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
+
+<!-- GitHub 数据统计 -->
+<img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api?username=Jayzhuoct&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=Jayzhuoct&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+
 <!-- Wakatime Graph-->
+<table>
   <tr>
     <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
-
+</div>
 
 
 <!--START_SECTION:waka-->
@@ -222,29 +245,6 @@ mindmap
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
-
-<div align="center" >
-
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
-<br>
-
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-<br>
-
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=Jayzhuoct&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-
-<!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api?username=Jayzhuoct&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=Jayzhuoct&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
-
-
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
