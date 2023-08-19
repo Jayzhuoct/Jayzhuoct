@@ -42,8 +42,6 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<p>&emsp;&emsp;大家好，我是小朱同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -60,7 +58,15 @@
 </td>
 
 </tr>
+
+<!-- Wakatime Graph-->
+  <tr>
+    <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
+  </tr>
 </table>
+
+
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
@@ -239,13 +245,6 @@ mindmap
 <img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=Jayzhuoct&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
 
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
