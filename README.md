@@ -259,7 +259,7 @@ mindmap
 <img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
 
 <!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FFFFFF" alt="Jokes Card" /></div>
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?theme=light" /></div>
 
