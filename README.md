@@ -15,15 +15,12 @@
 <br>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
-  <!-- profile logo 个人资料徽标 -->
-  <div align="left" style="white-space: nowrap;">
-  </br>
-    
+
+<!-- profile logo 个人资料徽标 -->
 <a href="https://t.me/Limerence_oct/"><img src="https://img.shields.io/badge/Telegram%20-007ACC?logo=Telegram&logoColor=fff&style=flat" /></a>&emsp;
 <a href="https://www.jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;    
 <img src="https://komarev.com/ghpvc/?username=Jayzhuoct&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" alt="Lines of code" />
-  </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -35,14 +32,11 @@
 </div>
 
 #  🙋 Hello
-
 <table>
 <tr style="width: 50%">
 <td>
 
-<!-- About me 关于我 -->
 ### 🤺 About Me
-
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -78,12 +72,13 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </td>
-
 <td>
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?theme=light" />
 </td>
+</tr>
 
+<tr>
 <!-- Wakatime Graph-->
 <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/></td>
 <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
