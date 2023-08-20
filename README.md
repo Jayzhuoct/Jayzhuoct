@@ -32,28 +32,19 @@
 </div>
 
 #  🙋 Hello
-<table>
-<tr>
-<td>
+
+<div align="left" style="width: 50%">
 
 ### 🤺 About Me
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+</div>
 
-</td>
-</tr>
-<tr>
-<td>
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<div align="center">
+<div align="right">
 <img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
 </div>
-</td>
-</tr>
-</table>
-
-
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
@@ -66,7 +57,7 @@
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api?username=Jayzhuoct&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=Jayzhuoct&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
-
+</div>
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
 
@@ -104,8 +95,6 @@
 </td>
 </tr>
 </table>
-
-</div>
 
 <!--START_SECTION:waka-->
 
