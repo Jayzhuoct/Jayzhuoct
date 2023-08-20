@@ -32,9 +32,7 @@
 
 ### 🤺 About Me
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。
-我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。
-We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.&center=true&size=16" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.&center=true&size=16" alt="Typing SVG" />
 </div>
 <!-- Github-Stats-Terminal 终端风格信息 -->
 
