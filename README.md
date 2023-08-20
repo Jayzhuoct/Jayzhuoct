@@ -1,3 +1,9 @@
+<!-- profile logo 个人资料徽标 -->
+<a href="https://t.me/Limerence_oct/"><img src="https://img.shields.io/badge/Telegram%20-007ACC?logo=Telegram&logoColor=fff&style=flat" /></a>&emsp;
+<a href="https://www.jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;    
+<img src="https://komarev.com/ghpvc/?username=Jayzhuoct&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
+<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" alt="Lines of code" />
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 <div align="center">
   
@@ -16,12 +22,6 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 
-<!-- profile logo 个人资料徽标 -->
-<a href="https://t.me/Limerence_oct/"><img src="https://img.shields.io/badge/Telegram%20-007ACC?logo=Telegram&logoColor=fff&style=flat" /></a>&emsp;
-<a href="https://www.jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;    
-<img src="https://komarev.com/ghpvc/?username=Jayzhuoct&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
-<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" alt="Lines of code" />
-
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -33,7 +33,7 @@
 
 #  🙋 Hello
 <table>
-<tr style="width: 50%">
+<tr>
 <td>
 
 ### 🤺 About Me
@@ -42,12 +42,20 @@
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td>
+</tr>
+<tr>
 <td>
 <!-- Github-Stats-Terminal 终端风格信息 -->
 <img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
 </td>
+<td>
+<!-- Quotes 名人名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?theme=light" />
+</td>
 </tr>
 </table>
+
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
@@ -73,16 +81,23 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 <td>
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?theme=light" />
+<img width="150" src="/assets/images/cxyduck.gif" />
 </td>
 </tr>
 
 <tr>
 <!-- Wakatime Graph-->
+<td>
+<img width="150" src="/assets/images/cxyduck.gif" />
+</td>
 <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/></td>
-<td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
+</tr>
 
+<tr>
+<td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
+<td>
+<img width="150" src="/assets/images/cxyduck.gif" />
+</td>
 </tr>
 </table>
 
