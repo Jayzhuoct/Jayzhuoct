@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td style="width: 50%">
+<td>
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
@@ -45,34 +45,38 @@
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
+<!-- Github-Stats-Terminal 终端风格信息 -->
+<img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
+<br>
 </td>
-
-<td>
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-
-</tr>
-
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
 
-<div align="center" >
 
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
-<br>
+<table>
+<td>
+<tr>
+<!-- wakatime 统计 -->
+### 📊 WakaTime
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</tr>
+
+<tr>
 <!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?theme=light" />
+</tr>
+</td>
+</table>
+
+
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
+
+<div align="center" >
 
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=Jayzhuoct&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
