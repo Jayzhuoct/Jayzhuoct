@@ -56,20 +56,22 @@
 
 
 <table>
-<td>
+
 <tr>
+<td>
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</tr>
+</td>
 
-<tr>
+<td>
 <!-- Quotes 名人名言 -->
 
 <img src="https://quotes-github-readme.vercel.app/api?theme=light" />
-</tr>
+
 </td>
+</tr>
 </table>
 
 
