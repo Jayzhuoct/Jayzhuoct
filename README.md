@@ -44,13 +44,9 @@
 </td>
 </tr>
 <tr>
-<td>
+<td style="text-align: center;">
 <!-- Github-Stats-Terminal 终端风格信息 -->
 <img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
-</td>
-<td>
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?theme=light" />
 </td>
 </tr>
 </table>
@@ -80,14 +76,14 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </td>
-<td>
+<td style="text-align: center;">
 <img width="150" src="/assets/images/cxyduck.gif" />
 </td>
 </tr>
 
 <tr>
 <!-- Wakatime Graph-->
-<td>
+<td style="text-align: center;">
 <img width="150" src="/assets/images/cxyduck.gif" />
 </td>
 <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/></td>
@@ -95,7 +91,7 @@
 
 <tr>
 <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
-<td>
+<td style="text-align: center;">
 <img width="150" src="/assets/images/cxyduck.gif" />
 </td>
 </tr>
@@ -103,7 +99,7 @@
 
 </div>
 
-
+# 📊WakaTime 统计
 <!--START_SECTION:waka-->
 
 **I'm a Night 🦉** 
@@ -269,6 +265,8 @@ mindmap
 
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
+<!-- Quotes 名人名言 -->
+<div><img src="https://quotes-github-readme.vercel.app/api?theme=light" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
 
