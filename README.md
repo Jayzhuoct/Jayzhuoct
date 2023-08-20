@@ -16,7 +16,7 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
   <!-- profile logo 个人资料徽标 -->
-  <div align="left">
+  <div align="left" style="white-space: nowrap;">
   </br>
     
 <a href="https://t.me/Limerence_oct/"><img src="https://img.shields.io/badge/Telegram%20-007ACC?logo=Telegram&logoColor=fff&style=flat" /></a>&emsp;
@@ -37,8 +37,8 @@
 #  🙋 Hello
 
 <table>
-<tr>
-<td style="width: 50%">
+<tr style="width: 50%">
+<td>
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
