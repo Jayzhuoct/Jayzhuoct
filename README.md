@@ -44,9 +44,11 @@
 </td>
 </tr>
 <tr>
-<td style="text-align: center;">
+<td>
 <!-- Github-Stats-Terminal 终端风格信息 -->
+<div align="center">
 <img src="https://github.com/Jayzhuoct/github-stats-terminal-style/blob/master/github_stats.svg"/>
+</div>
 </td>
 </tr>
 </table>
@@ -68,7 +70,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
 
-
+# 📊WakaTime 统计
 <table>
 <tr>
 <td>
@@ -76,30 +78,35 @@
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jayzhuoct&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </td>
-<td style="text-align: center;">
+<td>
+<div align="center">
 <img width="150" src="/assets/images/cxyduck.gif" />
+</div>
 </td>
 </tr>
 
 <tr>
 <!-- Wakatime Graph-->
-<td style="text-align: center;">
+<td>
+<div align="center">
 <img width="150" src="/assets/images/cxyduck.gif" />
+</div>
 </td>
 <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/b8853e6d-244d-4872-9ad6-3ea95a14508f.svg" width="500" alt="Wakatime"/></td>
 </tr>
 
 <tr>
 <td><img src="https://wakatime.com/share/@44281cc8-3c5f-4786-9bd8-01d814fbb5eb/c13294c4-e815-4232-bcc2-5d94acb37f55.svg" width="500" alt="Wakatime"/></td>
-<td style="text-align: center;">
+<td>
+<div align="center">
 <img width="150" src="/assets/images/cxyduck.gif" />
+</div>
 </td>
 </tr>
 </table>
 
 </div>
 
-# 📊WakaTime 统计
 <!--START_SECTION:waka-->
 
 **I'm a Night 🦉** 
