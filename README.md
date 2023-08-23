@@ -218,7 +218,7 @@ mindmap
 <div align="center">
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
-<table>
+<table style="border-collapse: collapse;">
     <tr>
         <td>
             <!-- Joke 笑话 -->
