@@ -218,7 +218,7 @@ mindmap
 <div align="center">
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
-<table style="border-collapse: collapse;">
+<table class="no-border">
     <tr>
         <td>
             <!-- Joke 笑话 -->
@@ -250,11 +250,9 @@ mindmap
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 
+# :octocat: GitHub
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
-
-<!-- github gif 图片 -->
-<img width="36%" src="/assets/images/githubgif.gif"  alt="githubgif.gif"/>
 
 <!-- metrics 基础资料 -->
 <img src="/github-metrics/base.svg" />
@@ -298,3 +296,12 @@ mindmap
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 
+<style>
+  .no-border {
+    border-collapse: collapse;
+    border: none;
+  }
+  .no-border td {
+    border: none;
+  }
+</style>
