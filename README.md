@@ -295,13 +295,3 @@ mindmap
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
-
-<style>
-  .no-border {
-    border-collapse: collapse;
-    border: none;
-  }
-  .no-border td {
-    border: none;
-  }
-</style>
