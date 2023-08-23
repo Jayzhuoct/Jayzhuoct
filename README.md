@@ -5,8 +5,9 @@
 <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" alt="Lines of code" />
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
+
 <div align="center">
-  
+
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=System.out.println(%22Hello%2C%20World!%22);cout << %22Hello%2C%20World!%22 << endl;console.log(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);echo %22Hello%2C%20World!%22;Console.WriteLine(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22)&center=true&size=27" alt="Typing SVG" />
@@ -18,13 +19,21 @@
 <br>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayzhuoct&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td>
+    <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    </picture>
+    </td>
+  </tr>
+</table>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 </div>
 
@@ -44,18 +53,16 @@
 </td>
 </tr>
 </table>
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
 
 <div align="center" >
-
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=Jayzhuoct&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api?username=Jayzhuoct&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=Jayzhuoct&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
+<img align="" height="137px" src="https://github-readme-stats-tan-eight-63.vercel.app/api/top-langs/?username=Jayzhuoct&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
@@ -241,8 +248,6 @@ mindmap
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/github.webp">
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/icon.png" /></div>
 
 <!-- profile-3d-contrib 3D贡献图-->
 <img src="/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -272,12 +277,7 @@ mindmap
 <img src="/github-metrics/base.svg" />
 &emsp;<img width="150" src="/assets/images/cxyduck.gif" />
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayzhuoct&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
+
 
 </div>
 
@@ -287,10 +287,10 @@ mindmap
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
 
-<!-- just img 图片 -->
+<!-- github gif 图片 -->
 <img width="36%" src="/assets/images/githubgif.gif"  alt="githubgif.gif"/>
 
-<!-- first form 第一个表格 -->
+<!-- 表格 -->
 
 <table>
   <tr>
@@ -317,10 +317,13 @@ mindmap
 
 <!-- skyline 图片 -->
 
+<!-- just img 图片 -->
+![icon](/assets/images/icon.png)
 
 <!-- rocket 图片 -->
 ![rocket](/assets/images/rocket.png)
 
 </div>
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 
