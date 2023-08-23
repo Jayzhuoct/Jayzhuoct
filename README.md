@@ -179,6 +179,7 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
 
+# 📖 knowledge map
 <div align="center" >
 
 ```mermaid
@@ -215,28 +216,35 @@ mindmap
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" />
 
 <div align="center">
-
 <!-- run 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/man_run.png" alt="Man Running" width="250" height="250" />
-
-<!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FFFFFF" alt="Jokes Card" /></div>
-<!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?theme=light" /></div>
+<table>
+    <tr>
+        <td>
+            <!-- Joke 笑话 -->
+            <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23FFFFFF" alt="Jokes Card" />
+        </td>
+        <td>
+            <!-- Quotes 名人名言 -->
+            <img src="https://quotes-github-readme.vercel.app/api?theme=light" />
+        </td>
+    </tr>
+</table>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-
-<img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/left.png" />&emsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzhuoct&theme=dark&hide_border=true" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="/assets/images/cxyduck.gif" />&emsp;
-<img src="/github-metrics/base.svg" />
-&emsp;<img width="150" src="/assets/images/cxyduck.gif" />
-
-
-
+<table>
+    <tr>
+        <td>
+            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/left.png" />
+        </td>
+        <td>
+           <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jayzhuoct&theme=dark&hide_border=true" />
+        </td>
+        <td>
+            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/right.png" />
+        </td>
+    </tr>
+</table>
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -248,8 +256,10 @@ mindmap
 <!-- github gif 图片 -->
 <img width="36%" src="/assets/images/githubgif.gif"  alt="githubgif.gif"/>
 
-<!-- 表格 -->
+<!-- metrics 基础资料 -->
+<img src="/github-metrics/base.svg" />
 
+<!-- 表格 -->
 <table>
   <tr>
     <td><img src="/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
