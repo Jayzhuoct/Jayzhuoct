@@ -97,21 +97,18 @@
 ![Alibaba Cloud Badge](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
 
 ### ✍️ plan
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
+![C # Badge](https://img.shields.io/badge/C%20#-239120?logo=csharp&logoColor=fff&style=flat)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+![Three Badge](https://img.shields.io/badge/Three-092E20?logo=threedotjs&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
 
 
 ### 🧰 tool
-<a href="https://t.me/Limerence_oct/">
-<img src="https://img.shields.io/badge/Telegram%20-007ACC?logo=Telegram&logoColor=fff&style=flat" />
-</a>
-
+<a href="https://t.me/Limerence_oct/"><img src="https://img.shields.io/badge/Telegram%20-007ACC?logo=Telegram&logoColor=fff&style=flat" /></a>
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
