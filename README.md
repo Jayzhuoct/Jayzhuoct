@@ -97,7 +97,7 @@
 ![Alibaba Cloud Badge](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
 
 ### ✍️ plan
-![C # Badge](https://img.shields.io/badge/C%20#-239120?logo=csharp&logoColor=fff&style=flat)
+![C # Badge](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff&style=flat)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
