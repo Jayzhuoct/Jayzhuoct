@@ -95,6 +95,7 @@
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=flat)
 ![Alibaba Cloud Badge](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?logo=alibabacloud&logoColor=fff&style=flat)
+![Rabbit MQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff&style=flat)
 
 ### ✍️ plan
 ![C # Badge](https://img.shields.io/badge/C%20#-239120?logo=csharp&logoColor=fff&style=flat)
@@ -109,6 +110,21 @@
 
 ### 🧰 tool
 <a href="https://t.me/Limerence_oct/"><img src="https://img.shields.io/badge/Telegram%20-007ACC?logo=Telegram&logoColor=fff&style=flat" /></a>
+![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)
+![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)
+![Discord Badge](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=fff&style=flat)
+![Stackoverflow Badge](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stackoverflow&logoColor=fff&style=flat)
+![WeChat Badge](https://img.shields.io/badge/WeChat-7BB32E?logo=wechat&logoColor=fff&style=flat)
+![QQ Badge](https://img.shields.io/badge/QQ-4285F4?logo=tencentqq&logoColor=fff&style=flat)
+![Weibo Badge](https://img.shields.io/badge/Weibo-E6162D?logo=sinaweibo&logoColor=fff&style=flat)
+![Bilibili Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=flat)
+![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=fff&style=flat)
+![TikTok Badge](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=fff&style=flat)
+![Steam Badge](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=fff&style=flat)
+![Spotify Badge](https://img.shields.io/badge/spotify-1ED760?logo=spotify&logoColor=fff&style=flat)
+![Google Play Badge](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=fff&style=flat)
+![App Store Badge](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
@@ -129,6 +145,13 @@
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
 ![Nginx Badge](https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=fff&style=flat)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
+![Google chrome Badge](https://img.shields.io/badge/Google%20chrome-FF6600?logo=googlechrome&logoColor=fff&style=flat)
+![Open AI Badge](https://img.shields.io/badge/Open%20AI-4285F4?logo=openai&logoColor=fff&style=flat)
+![Notion Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff&style=flat)
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-000000?logo=obsidian&logoColor=fff&style=flat)
+![Microsoft word Badge](https://img.shields.io/badge/microsoft%20word-2B579A?logo=microsoftword&logoColor=fff&style=flat)
+![Microsoft excel Badge](https://img.shields.io/badge/microsoft%20excel-217346?logo=microsoftexcel&logoColor=fff&style=flat)
+![Microsoft powerpoint Badge](https://img.shields.io/badge/microsoft%20powerpoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" />
