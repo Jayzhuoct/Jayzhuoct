@@ -1,8 +1,10 @@
-<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/github.webp">
-<a href="https://www.jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
-<img src="https://komarev.com/ghpvc/?username=Jayzhuoct&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-<img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" alt="Lines of code" />
-
+<div align="center">
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/github.webp">
+    <a href="https://www.jayzhu.one/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Jayzhuoct&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue" alt="Lines of code" />
+    <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/github.webp">
+</div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/hr.gif" alt="hr.gif" />
 
