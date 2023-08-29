@@ -22,4 +22,4 @@ jobs:
           SHOW_PROJECTS : "False"
           SHOW_TOTAL_CODE_TIME : "False"
           SHOW_TITLE : "False"
-          BLOCKS: "⬜🟨🟩"
+          SYMBOL_VERSION: 4
