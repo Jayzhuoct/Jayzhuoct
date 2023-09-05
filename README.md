@@ -175,7 +175,7 @@
         </td>
         <td>
             <div align="center">
-            <img width="150" src="/assets/images/cxyduck.gif" />
+            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cxyduck.gif" />
             </div>
         </td>
     </tr>
@@ -183,7 +183,7 @@
         <!-- Wakatime Graph-->
         <td>
             <div align="center">
-            <img width="150" src="/assets/images/cxyduck.gif" />
+            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cxyduck.gif" />
             </div>
         </td>
         <td>
@@ -196,7 +196,7 @@
         </td>
         <td>
             <div align="center">
-            <img width="150" src="/assets/images/cxyduck.gif" />
+            <img width="150" src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/cxyduck.gif" />
             </div>
         </td>
     </tr>
@@ -395,37 +395,37 @@ mindmap
 <!-- 表格 -->
 <table>
   <tr>
-    <td><img src="/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
   </tr>
   <tr>
-    <td><img src="/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
   <tr>
-    <td><img src="/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/activity.svg" alt="activity" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
-    <td><img src="/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stars.svg" alt="stars" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
 
 <!-- profile-3d-contrib 3D贡献图-->
-![contrib](profile-3d-contrib/profile-night-view.svg)
+![contrib](https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/profile-3d-contrib/profile-night-view.svg)
 
 <!-- skyline 图片 -->
 
 <!-- icon 图片 -->
-![icon](/assets/images/icon.png)
+![icon](https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/icon.png)
 
 <!-- rocket 图片 -->
-![rocket](/assets/images/rocket.png)
+![rocket](https://cdn.jsdelivr.net/gh/Jayzhuoct/Jayzhuoct/assets/images/rocket.png)
 
 </div>
 
